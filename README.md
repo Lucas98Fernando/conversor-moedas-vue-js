@@ -1,4 +1,4 @@
-# conversor
+# Conversor de Moedas com Vue JS
 
 ## Project setup
 ```
@@ -19,6 +19,9 @@ npm run build
 ```
 npm run lint
 ```
+
+### Screen app:
+<img src="https://i.imgur.com/7w0T44L.png">
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
